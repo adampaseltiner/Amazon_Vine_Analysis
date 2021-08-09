@@ -18,6 +18,6 @@ Below are the results from the analysis on Vine reviews for the musical instrume
 ## Summary
 Based on the above results we can see that there is clearly not a bias for reviews coming from the Vine program, since the percentage of 5 star reviews (56.67%) is essentially identical to those from the non-Vine reviewers (56.72%).
 
-Several further analyses could be conducted to investigate whether our conclusion in accurate:
-- We could perform the same analysis on reviews of different star ratings to see if there is significant variance between Vine and non-Vine reviewers.
-- We also might run the analysis on more datasets to see if the same results hold true for Vine reviews vs. non-Vine reviews in those categories.
+Several further analyses could be conducted to investigate whether our conclusion is accurate:
+- We could perform the same analysis on reviews of different star ratings (i.e. 4 stars, 3 stars) to see if there is any significant variance between Vine and non-Vine reviewers.
+- We also might run the analysis on more datasets (e.g. music, jewelry, electronics) to see if the same results hold true for Vine reviews vs. non-Vine reviews in those categories.
